@@ -1,0 +1,2 @@
+print("A\tB\tC\nD\tE\tF\nG\tH\tI")
+
