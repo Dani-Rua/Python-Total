@@ -1,1 +1,2 @@
-frase = "Controlar la complejidad es la esencia de la programación"
+frase = "Nunca confíes en un ordenador que no puedas lanzar por una ventana"
+print(frase[8::3])
